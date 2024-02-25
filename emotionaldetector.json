@@ -1,0 +1,1 @@
+{"class_name": "Sequential", "config": {"name": "sequential_21", "layers": [], "build_input_shape": [null, 48, 48]}, "keras_version": "2.15.0", "backend": "tensorflow"}
